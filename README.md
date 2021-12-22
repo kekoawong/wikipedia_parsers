@@ -1,4 +1,4 @@
-# wikipedia_parsers
+# Wikipedia Metadata Parsers
 Python scripts to parse wikipedia metadata for hdhp inferences to model virality of topics, structuring data into a format to pass into the inference scripts. The inference scripts can be found [here](https://github.com/kekoawong/hdhp.py) while the data scraped from wikipedia can be found on this site [here](https://dumps.wikimedia.org/backup-index.html).
 
 ## Dependencies:
